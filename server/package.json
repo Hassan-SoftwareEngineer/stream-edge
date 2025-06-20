@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "a complete professional backend follow best practices and industry standards.",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "scripts": {
+   "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "video",
+    "streaming",
+    "video",
+    "creation",
+    "thumbnails",
+    "creation",
+    "profile",
+    "creation"
+  ],
+  "author": "Engr Hassan Javed",
+  "license": "ISC"
+}
